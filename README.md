@@ -23,4 +23,4 @@
 
 # Contact Info
 
-• Discord: Wextra#0001
+• Discord: Wextra#0001 or wextraaa with no tag

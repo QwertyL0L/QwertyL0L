@@ -21,6 +21,10 @@
 
 • [Rule34-SelfBot](https://github.com/QwertyL0L/rule34-selfbot)
 
+# What Inspired me to Code
+
+[This repo by careerender125](https://github.com/careerender125/discord-troll-bot) is where my coding journey started.
+
 # Contact Info
 
-• Discord: Wextra#0001 or wextraaa with no tag
+• Discord: Wextra#0001 or wextraaa (with no tag)

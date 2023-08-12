@@ -19,7 +19,7 @@
 
 • [Selfcord.py](https://github.com/Shell1010/Selfcord) (didnt contribute much but ima still put it here)
 
-• [Rule34-SelfBot](https://github.com/QwertyL0L/rule34-selfbot)
+• [Rule34-SelfBot](https://github.com/QwertyL0L/rule34-selfbot) (a discord selfbot that spams r34 in servers)
 
 # What Inspired me to Code
 

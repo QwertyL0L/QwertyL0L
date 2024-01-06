@@ -7,15 +7,15 @@
 
 # Stuff I Made In The Past
 
-• [Computa](https://github.com/QwertyL0L/computa)
+• [FileScript](https://github.com/QwertyL0L/FileScript)
 
 • [Snake32](https://github.com/QwertyL0L/Snake32)
 
-• [Wextra Bot](https://github.com/QwertyL0L/Wextra)
+• [Wextra](https://github.com/QwertyL0L/Wextra)
 
 # Stuff Im Working On Right Now
 
-• [FileScript](https://github.com/QwertyL0L/FileScript) (not public yet)
+• [Computa](https://github.com/QwertyL0L/computa) (a discord bot that controls the host's pc)
 
 • [Selfcord.py](https://github.com/Shell1010/Selfcord) (didnt contribute much but ima still put it here)
 
@@ -23,8 +23,8 @@
 
 # What Inspired me to Code
 
-[This repo by careerender125](https://github.com/careerender125/discord-troll-bot) is where my coding journey started.
+[This repo by careerender125](https://github.com/careerender125/discord-troll-bot) is how i taught myself how to code and also how i would eventually modify his code to make [Wextra](https://github.com/QwertyL0L/Wextra).
 
 # Contact Info
 
-• Discord: Wextra#0001 or wextraaa (with no tag)
+• Discord: wextraaa (with no tag)

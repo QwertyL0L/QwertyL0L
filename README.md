@@ -24,7 +24,7 @@ I primarily make discord.py bots in my free time or i make stuff from [coding-id
 
 • [Selfcord.py](https://github.com/Shell1010/Selfcord) - A discord "bot" library (all i did was fix a typo in the readme but ima still put it here 💀)
 
-• [Goofy Ahh Bot](https://github.com/QwertyL0L/Goofy-ahh-Bot) - A discord bot i made for fun (not realeased yet)
+• [Goofy Ahh Bot](https://github.com/QwertyL0L/Goofy-ahh-Bot) - A discord bot i made for fun (not released yet)
 
 # What Inspired me to Code:
 

@@ -1,8 +1,6 @@
 <div align="center">
 <img src="./QwertyL0L.png" widht="180" height="180" style="border-radius: 100%;">
 <h1 align="center">QwertyL0L</h1>
-<strong><i>the guy above is a pretty cool developer 😎👍</i></strong>
-</a>
 </div>
 
 # About me

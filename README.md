@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./QwertyL0L.png" widht="180" height="180" style="border-radius: 100%;">
+<img src="https://avatars.githubusercontent.com/u/109008649" widht="180" height="180" style="border-radius: 100%;">
 <h1 align="center">QwertyL0L</h1>
 </div>
 

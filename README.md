@@ -4,7 +4,7 @@
 </div>
 
 # About me
-I primarily make discord bots in python in my free time or i js code whatever
+I primarily make stuff in python in my free time or i js code whatever
 
 # Stuff I made in the past:
 
@@ -30,6 +30,6 @@ I primarily make discord bots in python in my free time or i js code whatever
 
 [This repo by](https://github.com/careerender125/discord-troll-bot) [careerender125](https://github.com/careerender125) is how i taught myself how to code in discord.py and also how i would eventually modify his code to make [Wextra](https://github.com/QwertyL0L/Wextra).
 
-# Contact Info
+# Socials
 
-• Discord: @wextraaaaa (main account) OR @very_cool_mf (alt account)
+• Discord Accounts: [@wextraaaaa](https://discord.com/users/1086088658676875345) OR [@verycoolmf](https://discord.com/users/1158562927155089408) OR [@.very_cool_mf.](https://discord.com/users/1307850885740892255)

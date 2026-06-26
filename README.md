@@ -4,7 +4,7 @@
 </div>
 
 # About me
-I primarily make stuff in python in my free time or i js code whatever
+In my free time, I primarily make things in python but I also dabble in Luau and Unity C#.
 
 # Stuff I made in the past:
 
@@ -22,9 +22,9 @@ I primarily make stuff in python in my free time or i js code whatever
 
 • [Goofy Ahh Bot](https://github.com/QwertyL0L/Goofy-ahh-Bot) - A general purpose discord bot i made for fun (not open source yet)
 
-# Stuff im working on right now:
+# Stuff I'm working on right now:
 
-• not much tbh
+• random things that i'll probably never release on here (or that I cant release).
 
 # What Inspired me to Code:
 

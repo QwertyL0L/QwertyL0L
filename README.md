@@ -26,6 +26,85 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 
 • random small projects that i'll probably never release on here and whatever is below.
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 7.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 29 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 31 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                97 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+🌆 Daytime                238 commits         ███████████░░░░░░░░░░░░░░   42.50 % 
+🌃 Evening                176 commits         ████████░░░░░░░░░░░░░░░░░   31.43 % 
+🌙 Night                  49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Tuesday                  56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Wednesday                76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Thursday                 80 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Friday                   120 commits         █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Saturday                 80 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Sunday                   49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+Python                   37 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  37 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+spongebob-movie-in-vc    29 mins             ████████████████████░░░░░   78.88 % 
+GAB-V2                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+madtheft-bot             2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+
+💻 Operating System: 
+Mac                      37 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   26 repos            ████████████████░░░░░░░░░   63.41 % 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/QwertyL0L/QwertyL0L/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/08/2026 05:43:10 UTC
 <!--END_SECTION:waka-->
 
 # What Inspired me to Code:

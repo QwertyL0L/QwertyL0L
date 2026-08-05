@@ -24,7 +24,10 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 
 # Stuff I'm working on right now:
 
-• random small projects that i'll probably never release on here and whatever is below.
+• random small projects that i'll probably never release on here (and whatever tf is below).
+
+# Stats
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 

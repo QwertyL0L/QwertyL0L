@@ -25,8 +25,8 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 # Stuff I'm working on right now:
 
 • random small projects that i'll probably never release on here and whatever is below.
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 # What Inspired me to Code:
 

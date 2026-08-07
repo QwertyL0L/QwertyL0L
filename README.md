@@ -29,7 +29,7 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 # Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -72,19 +72,20 @@ Sunday                   49 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   2 hrs 49 mins       █████████████████████████   99.84 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Python                   3 hrs 47 mins       █████████████████████████   99.86 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-spongebob-movie-in-vc    2 hrs 18 mins       ████████████████████░░░░░   81.78 % 
-GAB-V2                   28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-madtheft-bot             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+spongebob-movie-in-vc    2 hrs 26 mins       ████████████████░░░░░░░░░   64.12 % 
+GAB-V2                   42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+obs-vcam-stuff-idfk      37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+madtheft-bot             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -110,7 +111,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QwertyL0L/QwertyL0L/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:25:25 UTC
+ Last Updated on 07/08/2026 19:30:32 UTC
 <!--END_SECTION:waka-->
 
 # What Inspired me to Code:

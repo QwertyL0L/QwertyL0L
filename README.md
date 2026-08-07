@@ -29,7 +29,7 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 # Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -72,18 +72,19 @@ Sunday                   49 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   37 mins             █████████████████████████   100.00 % 
+Python                   2 hrs 49 mins       █████████████████████████   99.84 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-spongebob-movie-in-vc    29 mins             ████████████████████░░░░░   78.88 % 
-GAB-V2                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-madtheft-bot             2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+spongebob-movie-in-vc    2 hrs 18 mins       ████████████████████░░░░░   81.78 % 
+GAB-V2                   28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+madtheft-bot             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 💻 Operating System: 
-Mac                      37 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -109,7 +110,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QwertyL0L/QwertyL0L/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:09:42 UTC
+ Last Updated on 07/08/2026 00:25:25 UTC
 <!--END_SECTION:waka-->
 
 # What Inspired me to Code:

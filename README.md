@@ -29,7 +29,7 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 # Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -72,20 +72,20 @@ Sunday                   49 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   3 hrs 47 mins       █████████████████████████   99.86 % 
+Python                   3 hrs 48 mins       █████████████████████████   99.86 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-spongebob-movie-in-vc    2 hrs 26 mins       ████████████████░░░░░░░░░   64.12 % 
-GAB-V2                   42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-obs-vcam-stuff-idfk      37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+spongebob-movie-in-vc    2 hrs 26 mins       ████████████████░░░░░░░░░   63.72 % 
+GAB-V2                   42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+obs-vcam-stuff-idfk      38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
 madtheft-bot             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -111,7 +111,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QwertyL0L/QwertyL0L/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:30:32 UTC
+ Last Updated on 08/08/2026 19:09:25 UTC
 <!--END_SECTION:waka-->
 
 # What Inspired me to Code:

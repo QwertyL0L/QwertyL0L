@@ -34,11 +34,13 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-319.40%20thousand%20lines%20of%20code-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 7.7 kB Used in GitHub's Storage 
  > 
-> 🏆 31 Contributions in the Year 2026
+> 🏆 32 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,21 +51,21 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                97 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-🌆 Daytime                238 commits         ███████████░░░░░░░░░░░░░░   42.35 % 
-🌃 Evening                177 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
-🌙 Night                  50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+🌞 Morning                97 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+🌆 Daytime                238 commits         ███████████░░░░░░░░░░░░░░   42.27 % 
+🌃 Evening                178 commits         ████████░░░░░░░░░░░░░░░░░   31.62 % 
+🌙 Night                  50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Tuesday                  56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Wednesday                77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Thursday                 80 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Friday                   120 commits         █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-Saturday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Sunday                   49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Monday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Tuesday                  56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Wednesday                77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Thursday                 80 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Friday                   120 commits         █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+Saturday                 82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Sunday                   49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 ```
 
 
@@ -112,7 +114,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QwertyL0L/QwertyL0L/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 03:24:55 UTC
+ Last Updated on 08/09/26 03:45:28 AM UTC
 <!--END_SECTION:waka-->
 
 # What Inspired me to Code:

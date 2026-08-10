@@ -30,7 +30,7 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 # Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -40,7 +40,7 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 
 > 📦 7.7 kB Used in GitHub's Storage 
  > 
-> 🏆 30 Contributions in the Year 2026
+> 🏆 34 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,16 +61,16 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Python</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">3 hrs 48 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="359" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">99.86%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Other</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">0 secs</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="1" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">0.14%</text></svg>
+<svg width="720" viewBox="0 0 720 92" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Python</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">5 hrs</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="348" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">96.63%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">INI</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">9 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="12" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">3.20%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Other</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">0 secs</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="1" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">0.17%</text></svg>
 
 🔥 Editors: 
-<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">VS Code</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">3 hrs 49 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
+<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">VS Code</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">5 hrs 10 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
 
 🐱‍💻 Projects: 
-<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">spongebob-movie-in-vc</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 26 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="229" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">63.72%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">GAB-V2</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">42 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="67" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">18.49%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">obs-vcam-stuff-idfk</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">38 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="60" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">16.80%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">madtheft-bot</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">2 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="4" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">1.00%</text></svg>
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">sbmivc</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 32 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="176" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">48.97%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Klyde-HF</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">1 hr 10 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="81" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">22.59%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">GAB-V2</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">47 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="55" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">15.28%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">obs-vcam-stuff-idfk</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">38 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="45" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">12.39%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">madtheft-bot</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">2 mins</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="102" width="3" height="8" rx="4" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">0.73%</text></svg>
 
 💻 Operating System: 
-<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Mac</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">3 hrs 49 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
+<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Mac</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">5 hrs 10 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
 
 
 **I Mostly Code in Python** 
@@ -84,7 +84,7 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 ![Lines of Code chart](https://raw.githubusercontent.com/QwertyL0L/QwertyL0L/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/26 05:00:22 AM UTC
+ Last Updated on 08/10/26 02:23:12 AM UTC
 <!--END_SECTION:waka-->
 
 # What Inspired me to Code:

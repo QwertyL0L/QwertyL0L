@@ -84,7 +84,7 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 ![Lines of Code chart](https://raw.githubusercontent.com/QwertyL0L/QwertyL0L/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/26 02:13:51 AM UTC
+ Last Updated on 08/12/26 02:31:51 AM UTC
 <!--END_SECTION:waka-->
 
 # What Inspired me to Code:

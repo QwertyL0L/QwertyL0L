@@ -75,23 +75,22 @@ Sunday                   49 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   7 hrs 43 mins       ██████████████████░░░░░░░   73.13 % 
-Bash                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-HTML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Python                   6 hrs 3 mins        █████████████████░░░░░░░░   69.01 % 
+Bash                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+HTML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FatLuffy                 5 hrs 45 mins       ██████████████░░░░░░░░░░░   54.43 % 
-GAB-V2                   3 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   36.35 % 
-GAB-WEB-V2               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-esp32-s3_TESTING         18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+FatLuffy                 5 hrs 45 mins       ████████████████░░░░░░░░░   65.51 % 
+GAB-V2                   2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+GAB-WEB-V2               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 
 💻 Operating System: 
-Mac                      10 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +110,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QwertyL0L/QwertyL0L/main/assets/bar_graph.png)
 
 
- Last Updated on 08/17/26 01:46:46 AM UTC
+ Last Updated on 08/18/26 01:41:35 AM UTC
 <!--END_SECTION:waka-->
 
 # What Inspired me to Code:

@@ -30,7 +30,7 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 # Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -75,22 +75,22 @@ Sunday                   49 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   6 hrs 3 mins        █████████████████░░░░░░░░   69.01 % 
-Bash                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-HTML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Python                   6 hrs 16 mins       █████████████████░░░░░░░░   69.73 % 
+Bash                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+HTML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FatLuffy                 5 hrs 45 mins       ████████████████░░░░░░░░░   65.51 % 
-GAB-V2                   2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-GAB-WEB-V2               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+FatLuffy                 5 hrs 45 mins       ████████████████░░░░░░░░░   63.98 % 
+GAB-V2                   2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+GAB-WEB-V2               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 
 💻 Operating System: 
-Mac                      8 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +110,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QwertyL0L/QwertyL0L/main/assets/bar_graph.png)
 
 
- Last Updated on 08/18/26 01:41:35 AM UTC
+ Last Updated on 08/19/26 01:44:29 AM UTC
 <!--END_SECTION:waka-->
 
 # What Inspired me to Code:

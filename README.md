@@ -30,7 +30,7 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 # Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -38,34 +38,34 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 
 **🐱 My GitHub Data** 
 
-> 📦 7.7 kB Used in GitHub's Storage 
+> 📦 7.8 kB Used in GitHub's Storage 
  > 
-> 🏆 37 Contributions in the Year 2026
+> 🏆 39 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
  > 
-> 🔑 31 Private Repositories 
+> 🔑 32 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                97 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-🌆 Daytime                241 commits         ███████████░░░░░░░░░░░░░░   42.43 % 
-🌃 Evening                180 commits         ████████░░░░░░░░░░░░░░░░░   31.69 % 
-🌙 Night                  50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+🌞 Morning                97 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+🌆 Daytime                242 commits         ███████████░░░░░░░░░░░░░░   42.53 % 
+🌃 Evening                180 commits         ████████░░░░░░░░░░░░░░░░░   31.63 % 
+🌙 Night                  50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Tuesday                  56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Wednesday                80 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Thursday                 80 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Friday                   120 commits         █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-Saturday                 84 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Sunday                   49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Monday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Tuesday                  56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Wednesday                81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Thursday                 80 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Friday                   120 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Saturday                 84 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Sunday                   49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 ```
 
 
@@ -75,22 +75,22 @@ Sunday                   49 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   6 hrs 16 mins       █████████████████░░░░░░░░   69.73 % 
-Bash                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-HTML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Python                   7 hrs 33 mins       ██████████████████░░░░░░░   73.41 % 
+Bash                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+HTML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 17 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FatLuffy                 5 hrs 45 mins       ████████████████░░░░░░░░░   63.98 % 
-GAB-V2                   2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.56 % 
-GAB-WEB-V2               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+FatLuffy                 5 hrs 45 mins       ██████████████░░░░░░░░░░░   55.91 % 
+GAB-V2                   3 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   37.57 % 
+GAB-WEB-V2               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 
 💻 Operating System: 
-Mac                      8 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +110,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QwertyL0L/QwertyL0L/main/assets/bar_graph.png)
 
 
- Last Updated on 08/19/26 01:44:29 AM UTC
+ Last Updated on 08/20/26 01:42:27 AM UTC
 <!--END_SECTION:waka-->
 
 # What Inspired me to Code:

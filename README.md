@@ -30,7 +30,7 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 # Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -75,21 +75,18 @@ Sunday                   49 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   3 hrs 1 min         ██████████████████████░░░   87.19 % 
-Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Python                   3 hrs 42 mins       ████████████████████████░   97.22 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GAB-V2                   3 hrs 9 mins        ███████████████████████░░   91.21 % 
-FatLuffy                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+GAB-V2                   3 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +106,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QwertyL0L/QwertyL0L/main/assets/bar_graph.png)
 
 
- Last Updated on 08/22/26 01:41:23 AM UTC
+ Last Updated on 08/23/26 01:50:59 AM UTC
 <!--END_SECTION:waka-->
 
 # What Inspired me to Code:

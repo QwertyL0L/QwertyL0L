@@ -30,7 +30,7 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 # Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -38,9 +38,9 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 
 **🐱 My GitHub Data** 
 
-> 📦 7.8 kB Used in GitHub's Storage 
+> 📦 7.7 kB Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2026
+> 🏆 41 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,21 +51,21 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                97 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-🌆 Daytime                242 commits         ███████████░░░░░░░░░░░░░░   42.53 % 
-🌃 Evening                180 commits         ████████░░░░░░░░░░░░░░░░░   31.63 % 
-🌙 Night                  50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+🌞 Morning                97 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+🌆 Daytime                242 commits         ███████████░░░░░░░░░░░░░░   42.38 % 
+🌃 Evening                182 commits         ████████░░░░░░░░░░░░░░░░░   31.87 % 
+🌙 Night                  50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Tuesday                  56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Wednesday                81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Thursday                 80 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Friday                   120 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-Saturday                 84 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Sunday                   49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Monday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Tuesday                  56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Wednesday                81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Thursday                 80 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Friday                   120 commits         █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Saturday                 86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Sunday                   49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 ```
 
 
@@ -75,18 +75,18 @@ Sunday                   49 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   3 hrs 42 mins       ████████████████████████░   97.22 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Python                   3 hrs 43 mins       ████████████████████████░   94.70 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GAB-V2                   3 hrs 48 mins       █████████████████████████   100.00 % 
+GAB-V2                   3 hrs 56 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -106,7 +106,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QwertyL0L/QwertyL0L/main/assets/bar_graph.png)
 
 
- Last Updated on 08/23/26 01:50:59 AM UTC
+ Last Updated on 08/24/26 01:48:34 AM UTC
 <!--END_SECTION:waka-->
 
 # What Inspired me to Code:

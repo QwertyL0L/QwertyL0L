@@ -30,7 +30,7 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 # Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -75,18 +75,18 @@ Sunday                   49 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   2 hrs 28 mins       ████████████████████████░   95.24 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Python                   2 hrs 48 mins       ████████████████████████░   95.83 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GAB-V2                   2 hrs 36 mins       █████████████████████████   100.00 % 
+GAB-V2                   2 hrs 55 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 36 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -106,7 +106,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QwertyL0L/QwertyL0L/main/assets/bar_graph.png)
 
 
- Last Updated on 08/31/26 05:11:10 AM UTC
+ Last Updated on 09/01/26 04:47:26 AM UTC
 <!--END_SECTION:waka-->
 
 # What Inspired me to Code:

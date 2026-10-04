@@ -90,11 +90,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   26 repos            ████████████████░░░░░░░░░   63.41 % 
-HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Python                   24 repos            ███████████████░░░░░░░░░░   61.54 % 
+HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
@@ -104,7 +104,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QwertyL0L/QwertyL0L/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/26 05:00:42 AM UTC
+ Last Updated on 10/04/26 05:32:56 AM UTC
 <!--END_SECTION:waka-->
 
 # What Inspired me to Code:

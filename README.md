@@ -38,7 +38,7 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 
 **🐱 My GitHub Data** 
 
-> 📦 7.8 kB Used in GitHub's Storage 
+> 📦 7.7 kB Used in GitHub's Storage 
  > 
 > 🏆 41 Contributions in the Year 2026
  > 
@@ -104,7 +104,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QwertyL0L/QwertyL0L/main/assets/bar_graph.png)
 
 
- Last Updated on 10/13/26 06:34:08 AM UTC
+ Last Updated on 10/14/26 04:35:06 AM UTC
 <!--END_SECTION:waka-->
 
 # What Inspired me to Code:

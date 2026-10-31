@@ -32,7 +32,7 @@ In my free time, I primarily make things in python but I also dabble in Luau and
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2027%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-319.41%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -104,7 +104,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QwertyL0L/QwertyL0L/main/assets/bar_graph.png)
 
 
- Last Updated on 10/30/26 05:27:31 AM UTC
+ Last Updated on 10/31/26 05:12:35 AM UTC
 <!--END_SECTION:waka-->
 
 # What Inspired me to Code:
